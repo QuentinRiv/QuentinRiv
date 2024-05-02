@@ -65,6 +65,7 @@
 
 <p align="center">
 <a href="mailto:quentin.rivollat@gmail.com"><img src="https://img.shields.io/badge/-Quentin-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-1D2AAD?style=flat&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
